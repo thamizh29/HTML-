@@ -1,3 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=Orbitron:wght@700&family=Raleway:wght@200;400;500;600&display=swap');
 body{
-    background-color: aquamarine;
+    
+    font-family:'Raleway';
+}
+.nav ul{
+    display: flex;
+    float: right;
+   margin-right: 50px;
+}
+.nav li,a{
+    list-style: none;
+    text-decoration: none;
+    text-align: center;
+    padding: 20px;
+    margin-right: 30px;
+}
+#in{
+    background-color: aqua;
+    height: 30px;
+    width: 120px;
+}
+#up{
+    border: solid 2px aqua;
+    width: 120px;
 }
