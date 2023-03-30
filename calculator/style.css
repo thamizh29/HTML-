@@ -1,4 +1,21 @@
-h1{
-    text-align: center;
-    color: blue;
+.container{
+    width:450px;
+    height:700px;
+    background-color: pink;
+    border-radius: 10pt;
+    margin-top: 140px;
+    margin-left: 100px;
+}
+#display{
+    width:360px;
+    height:70px;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+#btn{
+    width: 70px;
+    height: 80px;
+    border-radius:20px;
+    margin-left: 0px;
+    margin-top: 10px;
 }
