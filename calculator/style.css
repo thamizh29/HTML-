@@ -1,21 +1,31 @@
 .container{
-    width:450px;
-    height:700px;
+    width:480px;
+    height:720px;
     background-color: pink;
     border-radius: 10pt;
     margin-top: 140px;
     margin-left: 100px;
 }
 #display{
-    width:360px;
+    width:390px;
     height:70px;
     margin-top: 50px;
     margin-left: 40px;
+    font-size: 30px;
+    padding-left: 20px;
 }
 #btn{
-    width: 70px;
+    width: 75px;
     height: 80px;
-    border-radius:20px;
-    margin-left: 0px;
-    margin-top: 10px;
+    border-radius:50px;
+    margin-left: 30px;
+    margin-top: 30px;
+    padding: 20px;
+}
+#ans{
+    width: 400px;
+    height: 80px;
+    margin-top: 30px;
+    margin-left: 35px;
+    border-radius: 40px;
 }
